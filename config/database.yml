@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: database-dev
+  username: user
+
+test:
+  adapter: postgresql
+  host: localhost
+  database: database-test
+  username: user
+
+production:
+  adapter: postgresql
+  host: localhost
+  database: database-prod
+  username: user

@@ -1,0 +1,11 @@
+/* TEAM */
+Your title: Jonathan Chrisp
+Site: www.jonathanchrisp.com
+Twitter: jonathanchrisp
+Location: Brighton, United Kingdom
+
+/* SITE */
+Last update:
+Standards:
+Components:
+Software:

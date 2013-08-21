@@ -1,0 +1,3 @@
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^DOMAINNAME\.com$ [NC]
+#RewriteRule ^/?$ "http\:\/\/www\.DOMAINNAME\.com" [R=301,L]
